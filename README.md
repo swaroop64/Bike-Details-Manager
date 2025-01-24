@@ -1,4 +1,4 @@
-### **Bike Details Manager**
+# Bike Details Manager
 
 This project is a **Bike Details Manager** implemented in Python. It allows users to input and display details of a bike, including its name, model, edition, engine capacity, mileage, and price. The program uses a class structure to manage and display bike information in a structured and readable format.
 
